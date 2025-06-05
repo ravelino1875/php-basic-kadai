@@ -27,7 +27,7 @@
          }
        }
      }
-     
+
        $num = [15,4,18,23,10];
        sort_2way ($num, true);
        sort_2way ($num, false);
